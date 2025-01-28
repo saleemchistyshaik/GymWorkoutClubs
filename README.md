@@ -1,5 +1,5 @@
 A GUID (Globally Unique Identifier) is a 128-bit unique identifier used in the code to uniquely identify classes and bookings. In C#, it's represented by the Guid type.
-In our gym booking system, GUIDs are used for:
+In our gym workout club ptoject, GUIDs are used for:
 
 Class Identification:
 
